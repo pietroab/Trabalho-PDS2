@@ -10,4 +10,5 @@ Este será o jogo escolhido para o trabalho da disciplina de PDS2. Como dito ant
 INTEGRANTES:
 
 Pietro Urcine de Abreu
+
 Jose Tarcisio Prata Junior
