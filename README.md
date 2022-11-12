@@ -13,28 +13,38 @@ Pietro Urcine de Abreu
 Jose Tarcisio Prata Junior
 
 
-# USER STORIES
 
 
-Iniciar jogo
+# USER STORIES:
+
+
+### Iniciar jogo:
+
 Eu, enquanto jogador, gostaria de iniciar um jogo com um deck embaralhado divido por 2.
 
 
-Terminar jogo
+### Terminar jogo:
+
 Eu, enquanto jogador, gostaria que o jogo terminasse quando o objetivo for atingido por um jogador.
 
 
-Selecionar baralho
+### Selecionar baralho:
+
 Eu, enquanto jogador, quero escolher um baralho para começar um novo jogo.
 
 
-Escolher atributo da carta
+### Escolher atributo da carta:
+
 Eu, enquanto jogador, quero selecionar um atributo da carta para ser comparado com o do outro jogador.
 
 
-Receber carta do oponente
+### Receber carta do oponente:
+
 Eu, enquanto jogador, quero receber a carta de meu oponente se eu ganhar.
 
 
-Selecionar numero de jogadores
+### Selecionar numero de jogadores:
+
 Eu, enquanto jogador, quero escolher o numero de jogadores que quero jogar contra.
+
+
