@@ -1,0 +1,22 @@
+nome,potencia,cilindradas,velocidade,aceleracao,peso
+Ford Granada Ghia 3.0, 138, 2993, 180, 11, 1365
+Opel Diplomat V8, 230, 5354, 205, 10, 1690
+BMW 3.3 Li, 200, 3295, 210, 9, 1350
+Mercedes 450 SEL 6.9, 286, 6834, 225, 8, 1935
+Rolls-Royce Camargue, 200, 6750, 190, 12, 2347
+Rover 3500 S, 141, 3470, 190, 11, 1360
+Lotus Elite 502, 150, 1973, 200, 8, 1060
+Jaguar XJ-S, 287, 5343, 240, 7, 1760
+Alfa Romeo 2000 Spider, 131, 1962, 198, 11, 1045
+Mercedes 450 SL, 225, 4520, 215, 9, 1580
+Monteverdi Palm Beach, 305, 7207, 240, 6, 1430
+Bulck Century, 165, 5665, 170, 12, 1860
+Chevrolet Camaro LT, 155, 5657, 180, 12, 1690
+Pontiac Firebird Formula, 185, 6473, 200, 10, 1745
+Ferrari 365 GT/4, 340, 4390, 250, 6, 1500
+Citroen CX 2200, 112, 2175, 180, 13, 1280
+Renault 30 TS, 131, 2664, 185, 11, 1320
+Lancia Stratos, 190, 2418, 230, 7, 870
+Porsche Turbo, 260, 2992, 250, 5, 1140
+Lamborghini Countach, 385, 3929, 310, 5, 1100
+Fiat 130 Coupé, 165, 3235, 185, 12, 1600

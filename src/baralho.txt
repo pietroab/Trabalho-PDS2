@@ -1,0 +1,8 @@
+nome,potencia,cilindradas,velocidade,aceleracao,peso
+carro1,1,9,8,7,6
+carro2,2,1,9,8,7
+carro3,3,2,1,9,8
+carro4,4,3,2,1,9
+carro5,5,4,3,2,1
+carro6,6,5,4,3,2
+carro7,7,6,5,2,1
