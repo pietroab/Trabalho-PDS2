@@ -1,6 +1,6 @@
 # CARDGAME TRUNFO DE CARROS
 
-Este será o jogo escolhido para o trabalho da disciplina de PDS2. Como dito anteriormente o jogo será o Trunfo com a temática de carros. A ideia inicial será de que o jogo se inicia após a distribuição das cartas para os jogadores. As cartas terão diferentes atributos que podem ser iguais ou diferentes no valor e que ao final do turno podem render ao usuário mais uma carta na mão ou não. Em caso de empate, uma nova rodada se inicia até que se obtenha um vencedor. O jogo termina quando um jogador ficar com todas as cartas na mão.
+Este será o jogo escolhido para o trabalho da disciplina de PDS2. Como dito anteriormente o jogo será o Trunfo com a temática de carros. A ideia inicial será de que o jogo se inicia após a distribuição das cartas para os jogadores. Cada jogador irá começar com 7 cartas na mão onde cada carta receberá um id para identificação e 5 atributos associados a ela. Uma vez escolhida a carta pelo o id, o jogador terá que escolher um dos 5 atributos para ser comparado a carta do adversário. Após a comparação, o jogador que obtiver a vitória receberá a carta do adversário. Em caso de empate, uma nova rodada se inicia até que se obtenha um vencedor. O jogo termina quando um jogador obtiver todas as cartas em sua mão.
 
 
 
