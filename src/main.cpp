@@ -11,7 +11,7 @@
 #include "Baralho.h"
 #include "TipoCarta.h"
 
-#define DEBUG true /*!< Mostra as cartas da máquina. */
+#define DEBUG true /*!< Mostra as cartas da máquina. Mude o #define para false caso queira sair do modo DEBUG */
 
 /**
  * Retorna o valor de um atributo de uma Carta Carro pelo número.
