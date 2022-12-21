@@ -59,8 +59,36 @@ Eu, enquanto jogador, quero escolher o numero de jogadores que quero jogar contr
 
 # 📁 Acesso 
 
-- Faça o Download da Pasta src
-- No terminal entre no diretório da pasta src
-- Para compilar o projeto digite no terminal o comando: g++ -o jogo *.cpp 
-- Para executar o projeto digite no terminal o comando: jogo.exe
+1- Abra o terminal Git Bash.
+
+2- Clone o repositório com o comando:
+
+git clone https://github.com/pietroab/Trabalho-PDS2.git
+
+3- Abra o Prompt de Comando
+
+4- Vá ao diretorio src
+
+5- Crie o arquivo executável com o comando:
+
+g++ -o trab *.cpp
+
+6- Execute o arquivo com o comando:
+
+trab.exe
+
+7- Logo a seguir o jogo se iniciará. 
+
+8- Para realizar os testes abra o terminal UBUNTU
+
+9- Instale o cppunit, logo após instale também o netbeans.
+
+10- Vá ao diretório do jogo.
+
+11- Execute o comando: make tests
+
+12- Logo após, o comando: make
+
+
+
 
