@@ -51,10 +51,16 @@ Eu, enquanto jogador, quero escolher o numero de jogadores que quero jogar contr
 
 - Ter o MinGW instalado.
 - Possuir um compilador para C++
+- É recomendável utilizar um ambiente linux
+
+# ⚠️ ATENÇÃO: O JOGO POSSUI 2 MODOS
+
+- O Jogo se inicia no modo DEBUG, caso queira sair do modo DEBUG, altere a linha do arquivo main da pasta src mudando #define para false.
 
 # 📁 Acesso 
 
 - Faça o Download da Pasta src
 - Entre no diretório da pasta
-- Execute o comando para compilar o projeto: 
--
+- Para compilar o projeto execute o comando: g++ -o jogo *.cpp 
+- Para iniciar o projeto execute o comando: jogo.exe
+
