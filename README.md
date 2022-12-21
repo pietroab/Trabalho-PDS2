@@ -53,14 +53,14 @@ Eu, enquanto jogador, quero escolher o numero de jogadores que quero jogar contr
 - Possuir um compilador para C++
 - É recomendável utilizar um ambiente linux
 
-# ⚠️ ATENÇÃO: O JOGO POSSUI 2 MODOS
+# ⚠️ ATENÇÃO: O Jogo possui 2 modos.
 
-- O Jogo se inicia no modo DEBUG, caso queira sair do modo DEBUG, altere a linha do arquivo main da pasta src mudando #define para false.
+- O Jogo se inicia no modo DEBUG, caso queira sair do modo DEBUG, altere a linha 14 do arquivo main da pasta src mudando #define para false.
 
 # 📁 Acesso 
 
 - Faça o Download da Pasta src
 - Entre no diretório da pasta
-- Para compilar o projeto execute o comando: g++ -o jogo *.cpp 
-- Para iniciar o projeto execute o comando: jogo.exe
+- Para compilar o projeto digite o comando: g++ -o jogo *.cpp 
+- Para executar o projeto digite o comando: jogo.exe
 
