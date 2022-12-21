@@ -60,7 +60,7 @@ Eu, enquanto jogador, quero escolher o numero de jogadores que quero jogar contr
 # 📁 Acesso 
 
 - Faça o Download da Pasta src
-- No terminal entre no diretório da pasta
+- No terminal entre no diretório da pasta src
 - Para compilar o projeto digite no terminal o comando: g++ -o jogo *.cpp 
 - Para executar o projeto digite no terminal o comando: jogo.exe
 
