@@ -47,4 +47,14 @@ Eu, enquanto jogador, quero receber a carta de meu oponente se eu ganhar.
 
 Eu, enquanto jogador, quero escolher o numero de jogadores que quero jogar contra.
 
+# ⚠️ Pré-requisitos
 
+- Ter o MinGW instalado.
+- Possuir um compilador para C++
+
+# 📁 Acesso 
+
+- Faça o Download da Pasta src
+- Entre no diretório da pasta
+- Execute o comando para compilar o projeto: 
+-
