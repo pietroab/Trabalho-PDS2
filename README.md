@@ -56,6 +56,7 @@ Eu, enquanto jogador, quero escolher o numero de jogadores que quero jogar contr
 # ⚠️ ATENÇÃO: O Jogo possui 2 modos.
 
 - O Jogo se inicia no modo DEBUG, caso queira sair do modo DEBUG, altere a linha 14 do arquivo main da pasta src mudando #define para false.
+- Para adicionar mais cartas ao baralho do jogo, basta adicionar ao arquivo baralho2.txt, uma nova linha seguindo este        molde:nome,potencia,cilindradas,velocidade,aceleracao,peso.
 
 # 📁 Acesso 
 
